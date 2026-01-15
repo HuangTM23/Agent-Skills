@@ -4,15 +4,15 @@ some agent skill file can be installed by geminicli
 ## structure
 agent-skills
 
-├── deep-model-architect/
+├── model-architect/
 
 │   └── skill.md
 
-├── deep-model-training-orchestrator/
+├── model-training/
 
 │   └── skill.md
 
-├── agent-response-controller/
+├── agent-response/
 
 │   └── skill.md
 
