@@ -2,19 +2,19 @@
 some agent skill file can be installed by geminicli
 
 ## structure
-agent-skills
+Agent-Skills
 
 ├── model-architect/
 
-│   └── skill.md
+│   └── SKILL.md
 
 ├── model-training/
 
-│   └── skill.md
+│   └── SKILL.md
 
 ├── agent-response/
 
-│   └── skill.md
+│   └── SKILL.md
 
 └── README.md
 
